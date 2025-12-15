@@ -9,13 +9,15 @@ const DEFAULT_PATH_MAPPINGS = {
 	'/google': {
 		targetDomain: 'dns.google',
 		pathMapping: {
-			'/query-dns': '/dns-query',
+			'/u7jv3e4d': '/dns-query',
+			//'/query-dns': '/dns-query',
 		},
 	},
 	'/cloudflare': {
 		targetDomain: 'one.one.one.one',
 		pathMapping: {
-			'/query-dns': '/dns-query',
+			'/u7jv3e4d': '/dns-query',
+			//'/query-dns': '/dns-query',
 		},
 	},
 	// Add more path mappings as needed
@@ -137,3 +139,4 @@ export default {
 		return handleRequest(request, env);
 	},
 };
+
