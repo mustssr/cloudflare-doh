@@ -25,7 +25,7 @@ const DEFAULT_PATH_MAPPINGS = {
 	// Add more path mappings as needed
 };
 
-// 修改后的 HTML 内容 (Native HMAC Tool)
+// 修改后的 HTML 内容  (Native HMAC Tool)
 const HOMEPAGE_HTML = `<!DOCTYPE html>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width">
