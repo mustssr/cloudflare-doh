@@ -16,7 +16,7 @@ const DEFAULT_PATH_MAPPINGS = {
 	},
 	'/c': {
 	//'/cloudflare': {
-		targetDomain: 'one.one.one.one',
+		targetDomain: 'dns.cloudflare.com',
 		pathMapping: {
 			'/u7jv3e4d': '/dns-query',
 			//'/query-dns': '/dns-query',
